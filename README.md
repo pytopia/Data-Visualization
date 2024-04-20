@@ -46,7 +46,7 @@ Each chapter includes a combination of theoretical explanations, practical examp
 To get the most out of this course, you should have:
 
 - Basic knowledge of Python programming
-- Familiarity with data manipulation using libraries like NumPy and Pandas
+- Basic familiarity with data manipulation using libraries like NumPy and Pandas
 - Enthusiasm to explore the power of data visualization in Machine Learning!
 
 # 📚 Learn with Us!
